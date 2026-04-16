@@ -1,4 +1,4 @@
-# PayShield — Distributed Payment Gateway
+# ClearPay — Distributed Payment Gateway
 
 A **PCI-compliant**, high-throughput distributed payment gateway supporting **Card** and **Net Banking** transactions, built for financial consistency and security at scale.
 
